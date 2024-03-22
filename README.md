@@ -1,1 +1,1 @@
-just a simple reponsive frondend site for keyword finder using react and tailwind
+just a simple responsive frond-end site for keyword finders using React and tailwind
